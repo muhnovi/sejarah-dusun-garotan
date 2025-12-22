@@ -1,7 +1,7 @@
 export function HeroSection() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-accent/30 via-background to-muted/20">
-      <div className="absolute inset-0 bg-[url('/indonesian-village-rice-fields-sunset.jpg')] bg-cover bg-center opacity-10" />
+      <div className="absolute inset-0 bg-[url('/indonesian-village-rice-fields-sunset.jpg')] bg-cover bg-center opacity-35" />
 
       <div className="container relative z-10 px-4 py-32 mx-auto text-center">
         <div className="max-w-4xl mx-auto space-y-8">
