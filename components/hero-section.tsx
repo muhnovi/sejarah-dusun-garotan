@@ -6,7 +6,7 @@ export function HeroSection() {
       <div className="container relative z-10 px-4 py-32 mx-auto text-center">
         <div className="max-w-4xl mx-auto space-y-8">
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-balance leading-tight">
-            Sejarah Dusun Garotan
+            Sejarah Dukuh Garotan
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground font-light leading-relaxed text-pretty">
