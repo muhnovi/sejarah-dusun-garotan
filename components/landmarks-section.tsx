@@ -4,27 +4,32 @@ const landmarks = [
   {
     name: "Jalan Eyang Patuh",
     description: "Jalan utama yang dinamai menurut pendiri pertama desa",
-    icon: "🛤️",
+    icon: "",
   },
   {
     name: "Jalan Joyokarto",
     description: "Jalan bersejarah yang menghubungkan pemukiman",
-    icon: "🏘️",
+    icon: "",
   },
   {
     name: "Jalan Empu Gandring",
     description: "Dinamai sesuai tokoh legendaris dalam cerita rakyat",
-    icon: "⚔️",
+    icon: "",
   },
   {
     name: "Jalan Onggo (Mbah Onggo)",
     description: "Menghormati tokoh yang berperan dalam pembentukan desa",
-    icon: "🏛️",
+    icon: "",
   },
   {
     name: "Jalan Menggolo (Mbah Suro)",
     description: "Jalan bersejarah dengan nama alternatif lokal",
-    icon: "🌾",
+    icon: "",
+  },
+    {
+    name: "Pemakaman Sasana Laya Tegal Setra",
+    description: "pemakaman umum di garotan dari sepakatan warga diberi nama sasana laya tegal setra",
+    icon: "",
   },
   {
     name: "Al-Qur'an 30 Juz Tulisan Tangan",
@@ -42,7 +47,7 @@ export function LandmarksSection() {
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6 text-balance">Jejak Sejarah</h2>
           <p className="text-lg text-muted-foreground leading-relaxed text-pretty">
-            Jejak sejarah leluhur Desa Garotan masih tercermin pada penamaan jalan-jalan dan peninggalan bersejarah yang
+            Jejak sejarah leluhur Dusun Garotan masih tercermin pada penamaan jalan-jalan dan peninggalan bersejarah yang
             tetap dijaga hingga kini.
           </p>
         </div>

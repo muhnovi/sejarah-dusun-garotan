@@ -8,7 +8,7 @@ export function LegendsSection() {
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6 text-balance">Cerita & Kepercayaan Lokal</h2>
           <p className="text-lg text-muted-foreground leading-relaxed text-pretty">
-            Kisah-kisah yang diwariskan secara turun-temurun menjadi bagian dari kekayaan budaya dan sejarah lisan Desa
+            Kisah-kisah yang diwariskan secara turun-temurun menjadi bagian dari kekayaan budaya dan sejarah lisan Dusun
             Garotan.
           </p>
         </div>
@@ -29,23 +29,6 @@ export function LegendsSection() {
               <p className="text-muted-foreground leading-relaxed">
                 Banyak keluarga keturunan Majapahit yang berpindah ke wilayah Gunungkidul karena kondisi geografisnya
                 yang tandus, berbukit, dan panas, sehingga sulit dijangkau penjajah.
-              </p>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader>
-              <CardTitle className="font-serif text-2xl flex items-start gap-3">
-                <span className="text-3xl">📜</span>
-                <span>Masa Kerja Paksa di Lampung</span>
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-muted-foreground leading-relaxed">
-                Dalam perjalanan sejarahnya, leluhur Mbah Jenggot pernah mengalami masa sebagai tenaga kerja paksa di
-                Lampung pada era penjajahan. Al-Qur'an tulisan tangan 30 juz yang berasal dari Mbah Kartodikromo
-                kemudian diwariskan kepada generasi berikutnya sebagai peninggalan utama, menjadi simbol ketahanan
-                spiritual di masa sulit.
               </p>
             </CardContent>
           </Card>

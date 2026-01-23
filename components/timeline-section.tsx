@@ -22,13 +22,6 @@ const timelineData = [
       "Salah satu dari enam anak Mbah Kartodikromo dari istri keempat. Melanjutkan garis keturunan dan mempertahankan nilai-nilai tradisional.",
     year: "~1995",
   },
-  {
-    generation: "Generasi 4",
-    name: "Karsosuwito",
-    description:
-      "Keturunan Mbah Kartodiwongso yang memiliki tujuh orang anak dari satu istri. Meneruskan warisan keluarga.",
-    year: "~2025",
-  },
 ]
 
 export function TimelineSection() {
@@ -38,7 +31,7 @@ export function TimelineSection() {
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6 text-balance">Perjalanan Waktu</h2>
           <p className="text-lg text-muted-foreground leading-relaxed text-pretty">
-            Sejarah Desa Garotan dimulai sekitar sembilan puluh tahun yang lalu, berkembang melalui enam generasi yang
+            Sejarah Dusun Garotan dimulai sekitar sembilan puluh tahun yang lalu, berkembang melalui enam generasi yang
             membangun komunitas kuat dan budaya yang kaya.
           </p>
         </div>

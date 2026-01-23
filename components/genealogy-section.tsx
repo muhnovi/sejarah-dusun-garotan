@@ -22,27 +22,6 @@ const genealogyTree = [
     children: 6,
     notable: "Salah satu dari enam bersaudara, penerus tradisi keluarga",
   },
-  {
-    name: "Karsosuwito",
-    generation: 4,
-    role: "Keturunan Mbah Kartodiwongso",
-    children: 7,
-    notable: "Memiliki 7 anak dari satu istri",
-  },
-  {
-    name: "Sakino (Mbah Jenggot)",
-    generation: 5,
-    role: "Anak bungsu Karsosuwito",
-    children: 21,
-    notable: "Memiliki 21 cucu, mewarisi Al-Qur'an tulisan tangan dari leluhurnya",
-    highlight: true,
-  },
-  {
-    name: "Ahmad Jowo",
-    generation: 6,
-    role: "Anak Sakino (Mbah Jenggot)",
-    notable: "Generasi terkini, melanjutkan garis keturunan",
-  },
 ]
 
 export function GenealogySection() {
@@ -52,7 +31,7 @@ export function GenealogySection() {
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6 text-balance">Silsilah Keluarga</h2>
           <p className="text-lg text-muted-foreground leading-relaxed text-pretty">
-            Garis keturunan Desa Garotan dimulai dari Eyang Patuh dan berkembang hingga enam generasi, membentuk
+            Garis keturunan Dusun Garotan dimulai dari Eyang Patuh dan berkembang hingga enam generasi, membentuk
             komunitas yang kuat dan saling terhubung.
           </p>
         </div>
